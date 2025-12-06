@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm still exploring how to use the features of GitHub, so my homepage may be in a mess for now.
+I'm still exploring how to use the features of GitHub.
 - 🌱 I’m currently learning Functional analysis, mathematical physics equations, mathematical statistics, game theory and mechanism design.
-- 💿 I like to record my life through means like taking photos📸, recording videos🎬 and keeping diaries📕.
+- 💿 I like to take photos📸, record videos🎬 and keep diaries📕.
 - 📱 Ask me about beautiful music🎶 or movie🎞.
